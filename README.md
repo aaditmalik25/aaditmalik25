@@ -41,9 +41,9 @@
 
   </p>
   <p>
-    <a href="https://leetcode.com/saani765/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajeet_1606" height="30" width="40" /></a>
+    <a href="https://leetcode.com/aaditmalik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajeet_1606" height="30" width="40" /></a>
 
-<a href="https://auth.geeksforgeeks.org/user/saani765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/patelajeet" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aadit_malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/patelajeet" height="30" width="40" /></a>
 
   </p>
   
@@ -55,7 +55,7 @@
 <!-- <div align="center">
      [![Gmail Badge](https://img.shields.io/badge/-saani765@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saani765@gmail.com)](mailto:saani765@gmail.com)  
 </div> -->
-<p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=Saani765&label=Profile%20views&color=fa1b87&style=flat"> </p>
+<p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=aaditmalik25&label=Profile%20views&color=fa1b87&style=flat"> </p>
 
 
 <div align="center">
@@ -63,7 +63,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
 
 <h1>
- Languages , Frameworks and Tools 🧰⛏️
+ Tech I work on:
 
 </h1>
 <p> 
@@ -140,10 +140,10 @@
   <p align="center">
     <br>
     <a href="https://github.com/Saani765">
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Saani765&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&PAT_1=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"/></a>
-    <a href="https://github.com/Saani765/Saani765">
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saani765&layout=compact&theme=dracula&PAT_1=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"/></a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saani765&theme=dracula" alt="Saani765" />
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aaditmalik25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&PAT_1=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"/></a>
+    <a href="https://github.com/aaditmalik25/aaditmalik25">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditmalik25&layout=compact&theme=dracula&PAT_1=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"/></a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditmalik25&theme=dracula" alt="aaditmalik25" />
     
   </p><br>
   <div align="center">
@@ -159,10 +159,7 @@
 
 
 
-- 🔭 I’m currently working on React projects and ML related projects
-- 🌱 I’m currently learning Computer Vision and JS libraries and frameworks and ofc dsa.
-
-- 🤔 I’m looking for help with open source contributions and dsa
-
-- 📫 How to reach me: saani765@gmail.com
+- 🔭 I’m currently working on ML related projects
+- 🌱 I’m currently learning Machine Learning and Advanced Neural Networks.
+- 📫 How to reach me: aaditmalik25@gmail.com
 
